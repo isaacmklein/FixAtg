@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rfP2hdmCAp7vc20/L5jEfIAo0JukwARvUIF4s08Pg+I8zIXV7ryAukGC7XpQPGiEeAshOKfENE7YZp1GqKS/gA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\imkar\\source\\atgbckp\\OrderGenerator\\OrderGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\imkar\\.nuget\\packages\\quickfix.net.netcore\\1.8.1\\quickfix.net.netcore.1.8.1.nupkg.sha512",
+    "C:\\Users\\imkar\\.nuget\\packages\\quickfix.net.netcore.fix44\\1.8.1\\quickfix.net.netcore.fix44.1.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}

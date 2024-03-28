@@ -1,0 +1,900 @@
+20240326-02:15:05.555 : Created session
+20240326-02:15:05.602 : Connecting to 127.0.0.1 on port 9876
+20240326-02:15:07.667 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-02:15:10.652 : Connecting to 127.0.0.1 on port 9876
+20240326-02:15:12.691 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-02:15:15.705 : Connecting to 127.0.0.1 on port 9876
+20240326-02:15:17.750 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-02:17:58.595 : Created session
+20240326-02:17:58.638 : Connecting to 127.0.0.1 on port 9876
+20240326-02:18:00.713 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-02:18:03.692 : Connecting to 127.0.0.1 on port 9876
+20240326-02:18:05.729 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-02:19:31.598 : Created session
+20240326-02:19:31.645 : Connecting to 127.0.0.1 on port 9876
+20240326-02:19:33.693 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-02:24:39.143 : Created session
+20240326-02:24:39.187 : Connecting to 127.0.0.1 on port 9876
+20240326-02:24:41.237 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-02:24:44.244 : Connecting to 127.0.0.1 on port 9876
+20240326-02:24:46.271 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-02:24:49.273 : Connecting to 127.0.0.1 on port 9876
+20240326-02:24:51.300 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-02:25:54.627 : Created session
+20240326-02:25:54.707 : Connecting to 127.0.0.1 on port 9876
+20240326-02:25:56.773 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-02:25:59.761 : Connecting to 127.0.0.1 on port 9876
+20240326-02:26:01.787 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-02:26:04.811 : Connecting to 127.0.0.1 on port 9876
+20240326-02:26:06.847 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-02:26:09.857 : Connecting to 127.0.0.1 on port 9876
+20240326-02:26:11.911 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-02:26:14.908 : Connecting to 127.0.0.1 on port 9876
+20240326-02:26:16.952 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-02:26:42.912 : Created session
+20240326-02:26:42.961 : Connecting to 127.0.0.1 on port 9876
+20240326-02:26:45.033 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-02:29:59.559 : Created session
+20240326-02:29:59.603 : Connecting to 127.0.0.1 on port 9876
+20240326-02:30:01.649 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-02:30:04.661 : Connecting to 127.0.0.1 on port 9876
+20240326-02:30:06.701 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-02:30:09.725 : Connecting to 127.0.0.1 on port 9876
+20240326-02:30:11.756 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-02:30:14.758 : Connecting to 127.0.0.1 on port 9876
+20240326-02:30:16.788 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-02:30:19.817 : Connecting to 127.0.0.1 on port 9876
+20240326-02:30:21.857 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-02:30:24.857 : Connecting to 127.0.0.1 on port 9876
+20240326-02:30:26.907 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-02:30:29.895 : Connecting to 127.0.0.1 on port 9876
+20240326-02:30:31.910 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-02:30:46.914 : Created session
+20240326-02:30:46.978 : Connecting to 127.0.0.1 on port 9876
+20240326-02:30:49.024 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-02:30:51.996 : Connecting to 127.0.0.1 on port 9876
+20240326-02:30:54.031 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-02:30:57.047 : Connecting to 127.0.0.1 on port 9876
+20240326-02:45:43.386 : Created session
+20240326-02:45:43.459 : Connecting to 127.0.0.1 on port 9876
+20240326-02:45:45.520 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-02:45:48.518 : Connecting to 127.0.0.1 on port 9876
+20240326-02:45:50.565 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-02:45:53.568 : Connecting to 127.0.0.1 on port 9876
+20240326-02:45:55.609 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-05:39:01.676 : Created session
+20240326-05:39:01.772 : Connecting to 127.0.0.1 on port 9876
+20240326-05:39:03.815 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-05:39:06.835 : Connecting to 127.0.0.1 on port 9876
+20240326-05:39:08.869 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-05:39:11.879 : Connecting to 127.0.0.1 on port 9876
+20240326-05:39:13.925 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-05:39:16.944 : Connecting to 127.0.0.1 on port 9876
+20240326-05:39:18.975 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-05:39:21.985 : Connecting to 127.0.0.1 on port 9876
+20240326-05:39:24.029 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-05:39:27.034 : Connecting to 127.0.0.1 on port 9876
+20240326-18:33:08.632 : Created session
+20240326-18:33:08.729 : Connecting to 127.0.0.1 on port 9876
+20240326-18:33:10.812 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-18:33:13.778 : Connecting to 127.0.0.1 on port 9876
+20240326-18:33:15.803 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-18:33:18.829 : Connecting to 127.0.0.1 on port 9876
+20240326-18:33:20.852 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-18:33:23.876 : Connecting to 127.0.0.1 on port 9876
+20240326-18:33:25.920 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-18:33:28.903 : Connecting to 127.0.0.1 on port 9876
+20240326-18:33:30.930 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-18:33:33.922 : Connecting to 127.0.0.1 on port 9876
+20240326-18:33:35.963 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240326-18:33:38.980 : Connecting to 127.0.0.1 on port 9876
+20240326-18:33:41.011 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-06:04:59.831 : Session FIX.4.4:OrderGenerator->OrderAccumulator already disconnected: Resetting...
+20240327-06:04:59.844 : Session reset: New session
+20240327-06:04:59.844 : Created session
+20240327-06:04:59.897 : Connecting to 127.0.0.1 on port 9876
+20240327-06:05:01.949 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-06:05:04.962 : Connecting to 127.0.0.1 on port 9876
+20240327-06:05:07.013 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-06:05:09.995 : Connecting to 127.0.0.1 on port 9876
+20240327-06:05:12.040 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-06:05:15.029 : Connecting to 127.0.0.1 on port 9876
+20240327-06:05:17.065 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-06:05:20.079 : Connecting to 127.0.0.1 on port 9876
+20240327-06:05:22.128 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-06:05:25.125 : Connecting to 127.0.0.1 on port 9876
+20240327-06:05:27.170 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-06:05:30.192 : Connecting to 127.0.0.1 on port 9876
+20240327-06:05:32.260 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-06:05:35.239 : Connecting to 127.0.0.1 on port 9876
+20240327-06:05:37.273 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-06:05:40.279 : Connecting to 127.0.0.1 on port 9876
+20240327-06:05:42.326 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-06:05:45.314 : Connecting to 127.0.0.1 on port 9876
+20240327-06:05:47.352 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-06:05:50.358 : Connecting to 127.0.0.1 on port 9876
+20240327-06:07:58.918 : Created session
+20240327-06:07:58.968 : Connecting to 127.0.0.1 on port 9876
+20240327-06:08:01.039 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-06:08:04.029 : Connecting to 127.0.0.1 on port 9876
+20240327-06:21:05.008 : Created session
+20240327-06:21:05.094 : Connecting to 127.0.0.1 on port 9876
+20240327-06:21:05.122 : Connection succeeded
+20240327-06:21:05.126 : Initiated logon request
+20240327-06:21:05.237 : Received logon
+20240327-06:21:05.247 : Got resend request from 1 to 0
+20240327-06:21:05.273 : Sent SequenceReset TO: 43
+20240327-06:21:05.570 : Got resend request from 16 to 0
+20240327-06:21:05.575 : Sent SequenceReset TO: 43
+20240327-06:21:21.410 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10054): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20240327-06:21:21.414 : Session reset: ResetOnDisconnect
+20240327-06:35:47.900 : Created session
+20240327-06:35:48.078 : Connecting to 127.0.0.1 on port 9876
+20240327-06:36:10.322 : Connection succeeded
+20240327-06:36:10.327 : Initiated logon request
+20240327-06:36:10.415 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10054): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20240327-06:36:22.419 : Connecting to 127.0.0.1 on port 9876
+20240327-06:36:24.449 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-06:36:27.449 : Connecting to 127.0.0.1 on port 9876
+20240327-07:09:12.723 : Created session
+20240327-07:09:12.818 : Connecting to 127.0.0.1 on port 9876
+20240327-07:09:12.846 : Connection succeeded
+20240327-07:09:12.853 : Initiated logon request
+20240327-07:09:22.934 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240327-07:12:11.334 : Created session
+20240327-07:12:11.392 : Connecting to 127.0.0.1 on port 9876
+20240327-07:12:11.415 : Connection succeeded
+20240327-07:12:11.418 : Initiated logon request
+20240327-07:12:21.512 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240327-07:14:35.773 : Created session
+20240327-07:14:35.824 : Connecting to 127.0.0.1 on port 9876
+20240327-07:14:35.843 : Connection succeeded
+20240327-07:14:35.849 : Initiated logon request
+20240327-07:14:45.926 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240327-07:16:36.049 : Created session
+20240327-07:16:36.129 : Connecting to 127.0.0.1 on port 9876
+20240327-07:16:36.156 : Connection succeeded
+20240327-07:16:36.161 : Initiated logon request
+20240327-07:16:46.264 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240327-07:16:46.270 : Session reset: ResetOnDisconnect
+20240327-07:16:51.287 : Connecting to 127.0.0.1 on port 9876
+20240327-07:16:51.293 : Connection succeeded
+20240327-07:16:51.293 : Initiated logon request
+20240327-07:17:01.376 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240327-07:17:01.379 : Session reset: ResetOnDisconnect
+20240327-07:17:11.387 : Created session
+20240327-07:17:11.454 : Connecting to 127.0.0.1 on port 9876
+20240327-07:17:12.038 : Connection succeeded
+20240327-07:17:12.043 : Initiated logon request
+20240327-07:17:20.415 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10054): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20240327-07:17:20.420 : Session reset: ResetOnDisconnect
+20240327-07:17:21.561 : Connecting to 127.0.0.1 on port 9876
+20240327-07:24:18.944 : Created session
+20240327-07:24:19.059 : Connecting to 127.0.0.1 on port 9876
+20240327-07:24:20.120 : Connection succeeded
+20240327-07:24:20.124 : Initiated logon request
+20240327-07:24:30.210 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240327-07:24:30.214 : Session reset: ResetOnDisconnect
+20240327-07:24:34.208 : Connecting to 127.0.0.1 on port 9876
+20240327-07:24:34.212 : Connection succeeded
+20240327-07:24:34.212 : Initiated logon request
+20240327-07:24:44.298 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240327-07:24:44.301 : Session reset: ResetOnDisconnect
+20240327-07:24:49.342 : Connecting to 127.0.0.1 on port 9876
+20240327-07:24:49.345 : Connection succeeded
+20240327-07:24:49.346 : Initiated logon request
+20240327-07:24:59.454 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240327-07:24:59.457 : Session reset: ResetOnDisconnect
+20240327-07:25:04.512 : Connecting to 127.0.0.1 on port 9876
+20240327-07:25:04.517 : Connection succeeded
+20240327-07:25:04.517 : Initiated logon request
+20240327-07:25:09.979 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10054): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20240327-07:25:09.982 : Session reset: ResetOnDisconnect
+20240327-07:25:14.592 : Connecting to 127.0.0.1 on port 9876
+20240327-07:25:16.646 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-07:25:19.614 : Connecting to 127.0.0.1 on port 9876
+20240327-07:25:21.640 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-07:25:24.666 : Connecting to 127.0.0.1 on port 9876
+20240327-07:25:26.701 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-07:25:29.720 : Connecting to 127.0.0.1 on port 9876
+20240327-07:25:31.759 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-07:25:34.761 : Connecting to 127.0.0.1 on port 9876
+20240327-07:25:36.789 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-07:25:39.804 : Connecting to 127.0.0.1 on port 9876
+20240327-07:25:41.826 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-07:25:44.848 : Connecting to 127.0.0.1 on port 9876
+20240327-07:25:46.870 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-07:25:49.910 : Connecting to 127.0.0.1 on port 9876
+20240327-07:25:51.958 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-08:08:32.237 : Created session
+20240327-08:08:32.466 : Connecting to 127.0.0.1 on port 9876
+20240327-08:08:32.489 : Connection succeeded
+20240327-08:08:32.493 : Initiated logon request
+20240327-08:08:42.598 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240327-08:08:42.604 : Session reset: ResetOnDisconnect
+20240327-08:09:16.979 : Created session
+20240327-08:09:17.037 : Connecting to 127.0.0.1 on port 9876
+20240327-08:09:17.061 : Connection succeeded
+20240327-08:09:17.064 : Initiated logon request
+20240327-08:09:27.176 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240327-08:09:27.180 : Session reset: ResetOnDisconnect
+20240327-08:09:32.204 : Connecting to 127.0.0.1 on port 9876
+20240327-08:09:32.208 : Connection succeeded
+20240327-08:09:32.208 : Initiated logon request
+20240327-08:09:35.184 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10054): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20240327-08:09:35.188 : Session reset: ResetOnDisconnect
+20240327-08:11:45.823 : Created session
+20240327-08:11:45.878 : Connecting to 127.0.0.1 on port 9876
+20240327-08:11:48.991 : Connection succeeded
+20240327-08:11:49.000 : Initiated logon request
+20240327-08:12:00.883 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240327-08:12:00.888 : Session reset: ResetOnDisconnect
+20240327-08:12:02.536 : Connecting to 127.0.0.1 on port 9876
+20240327-08:12:02.542 : Connection succeeded
+20240327-08:12:02.542 : Initiated logon request
+20240327-08:12:37.114 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240327-08:12:37.128 : Session reset: ResetOnDisconnect
+20240327-08:12:44.370 : Connecting to 127.0.0.1 on port 9876
+20240327-08:12:44.376 : Connection succeeded
+20240327-08:12:44.376 : Initiated logon request
+20240327-08:32:13.345 : Created session
+20240327-08:32:13.395 : Connecting to 127.0.0.1 on port 9876
+20240327-08:32:13.414 : Connection succeeded
+20240327-08:32:13.420 : Initiated logon request
+20240327-08:32:23.519 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240327-08:32:23.523 : Session reset: ResetOnDisconnect
+20240327-08:32:47.620 : Created session
+20240327-08:32:47.679 : Connecting to 127.0.0.1 on port 9876
+20240327-08:32:47.697 : Connection succeeded
+20240327-08:32:47.702 : Initiated logon request
+20240327-08:33:12.934 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240327-08:33:16.758 : Session reset: ResetOnDisconnect
+20240327-08:46:10.700 : Created session
+20240327-08:46:10.771 : Connecting to 127.0.0.1 on port 9876
+20240327-08:46:12.331 : Connection succeeded
+20240327-08:46:12.334 : Initiated logon request
+20240327-08:46:22.384 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240327-08:46:22.387 : Session reset: ResetOnDisconnect
+20240327-08:46:25.893 : Connecting to 127.0.0.1 on port 9876
+20240327-08:46:27.928 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-08:46:30.931 : Connecting to 127.0.0.1 on port 9876
+20240327-08:46:32.983 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-08:46:35.980 : Connecting to 127.0.0.1 on port 9876
+20240327-08:46:38.030 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-08:46:41.030 : Connecting to 127.0.0.1 on port 9876
+20240327-08:46:43.084 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-08:46:46.084 : Connecting to 127.0.0.1 on port 9876
+20240327-08:46:48.131 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-08:46:51.137 : Connecting to 127.0.0.1 on port 9876
+20240327-08:46:53.187 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-08:46:56.178 : Connecting to 127.0.0.1 on port 9876
+20240327-08:46:58.234 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-08:47:01.239 : Connecting to 127.0.0.1 on port 9876
+20240327-08:47:03.290 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-08:47:06.267 : Connecting to 127.0.0.1 on port 9876
+20240327-08:47:08.312 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-08:47:11.311 : Connecting to 127.0.0.1 on port 9876
+20240327-08:47:13.349 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-08:47:16.358 : Connecting to 127.0.0.1 on port 9876
+20240327-08:47:18.407 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-08:47:21.395 : Connecting to 127.0.0.1 on port 9876
+20240327-08:47:23.431 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-08:47:26.443 : Connecting to 127.0.0.1 on port 9876
+20240327-08:47:28.482 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-09:08:08.875 : Created session
+20240327-09:08:08.966 : Connecting to 127.0.0.1 on port 9876
+20240327-09:08:09.490 : Connection succeeded
+20240327-09:08:09.494 : Initiated logon request
+20240327-09:08:19.575 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240327-09:08:19.579 : Session reset: ResetOnDisconnect
+20240327-09:08:24.105 : Connecting to 127.0.0.1 on port 9876
+20240327-09:08:26.142 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-09:08:29.158 : Connecting to 127.0.0.1 on port 9876
+20240327-09:08:31.202 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-09:09:26.970 : Created session
+20240327-09:09:27.101 : Connecting to 127.0.0.1 on port 9876
+20240327-09:09:27.826 : Connection succeeded
+20240327-09:09:27.831 : Initiated logon request
+20240327-09:09:37.927 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240327-09:09:37.931 : Session reset: ResetOnDisconnect
+20240327-09:09:42.264 : Connecting to 127.0.0.1 on port 9876
+20240327-09:09:44.322 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-09:09:47.318 : Connecting to 127.0.0.1 on port 9876
+20240327-09:09:49.369 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-09:09:52.357 : Connecting to 127.0.0.1 on port 9876
+20240327-09:09:54.384 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-09:09:57.389 : Connecting to 127.0.0.1 on port 9876
+20240327-12:01:14.162 : Created session
+20240327-12:01:14.227 : Connecting to 127.0.0.1 on port 9876
+20240327-12:01:14.250 : Connection succeeded
+20240327-12:01:14.255 : Initiated logon request
+20240327-12:01:24.349 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240327-12:01:24.355 : Session reset: ResetOnDisconnect
+20240327-12:01:29.361 : Connecting to 127.0.0.1 on port 9876
+20240327-12:01:31.400 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-12:01:34.411 : Connecting to 127.0.0.1 on port 9876
+20240327-12:01:36.455 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-12:01:39.455 : Connecting to 127.0.0.1 on port 9876
+20240327-12:01:41.475 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-12:01:44.505 : Connecting to 127.0.0.1 on port 9876
+20240327-12:01:46.533 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-12:01:49.553 : Connecting to 127.0.0.1 on port 9876
+20240327-12:01:51.592 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-12:01:54.602 : Connecting to 127.0.0.1 on port 9876
+20240327-12:01:56.637 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-12:01:59.663 : Connecting to 127.0.0.1 on port 9876
+20240327-12:02:01.691 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-12:02:04.707 : Connecting to 127.0.0.1 on port 9876
+20240327-12:02:06.742 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-12:02:09.758 : Connecting to 127.0.0.1 on port 9876
+20240327-12:02:11.777 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-12:02:14.804 : Connecting to 127.0.0.1 on port 9876
+20240327-12:02:16.844 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-12:02:19.861 : Connecting to 127.0.0.1 on port 9876
+20240327-12:02:21.894 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-12:02:24.900 : Connecting to 127.0.0.1 on port 9876
+20240327-12:02:26.926 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-12:02:29.950 : Connecting to 127.0.0.1 on port 9876
+20240327-20:31:51.146 : Created session
+20240327-20:31:51.210 : Connecting to 127.0.0.1 on port 9876
+20240327-20:31:51.731 : Connection succeeded
+20240327-20:31:51.735 : Initiated logon request
+20240327-20:32:01.815 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240327-20:32:01.819 : Session reset: ResetOnDisconnect
+20240327-20:32:06.369 : Connecting to 127.0.0.1 on port 9876
+20240327-20:32:08.400 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-20:35:02.729 : Created session
+20240327-20:35:02.786 : Connecting to 127.0.0.1 on port 9876
+20240327-20:35:03.305 : Connection succeeded
+20240327-20:35:03.308 : Initiated logon request
+20240327-20:36:27.773 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240327-20:36:27.791 : Session reset: ResetOnDisconnect
+20240327-20:36:33.111 : Connecting to 127.0.0.1 on port 9876
+20240327-20:36:33.118 : Connection succeeded
+20240327-20:36:33.118 : Initiated logon request
+20240327-20:36:48.019 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240327-20:36:48.415 : Session reset: ResetOnDisconnect
+20240327-20:38:07.332 : Connecting to 127.0.0.1 on port 9876
+20240327-20:38:07.338 : Connection succeeded
+20240327-20:38:07.338 : Initiated logon request
+20240327-20:38:08.028 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10054): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20240327-20:38:08.031 : Session reset: ResetOnDisconnect
+20240327-20:38:12.652 : Connecting to 127.0.0.1 on port 9876
+20240327-20:38:18.349 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-20:38:42.724 : Connecting to 127.0.0.1 on port 9876
+20240327-20:38:50.603 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-20:38:55.832 : Connecting to 127.0.0.1 on port 9876
+20240327-20:38:58.471 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-20:39:39.371 : Connecting to 127.0.0.1 on port 9876
+20240327-20:40:07.030 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-20:40:34.204 : Connecting to 127.0.0.1 on port 9876
+20240327-20:40:39.548 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-20:40:48.754 : Connecting to 127.0.0.1 on port 9876
+20240327-20:40:55.444 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-20:41:03.594 : Connecting to 127.0.0.1 on port 9876
+20240327-20:41:13.266 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-20:41:18.005 : Connecting to 127.0.0.1 on port 9876
+20240327-20:41:20.659 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-20:41:23.083 : Connecting to 127.0.0.1 on port 9876
+20240327-20:41:25.750 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-20:42:18.599 : Connecting to 127.0.0.1 on port 9876
+20240327-20:42:20.635 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-20:42:24.503 : Connecting to 127.0.0.1 on port 9876
+20240327-20:42:26.542 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240327-20:43:43.969 : Created session
+20240327-20:43:44.015 : Connecting to 127.0.0.1 on port 9876
+20240327-20:43:44.029 : Connection succeeded
+20240327-20:43:44.035 : Initiated logon request
+20240327-20:44:23.904 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240327-20:44:26.190 : Session reset: ResetOnDisconnect
+20240327-20:44:31.676 : Connecting to 127.0.0.1 on port 9876
+20240327-20:44:31.681 : Connection succeeded
+20240327-20:44:31.682 : Initiated logon request
+20240328-06:28:52.972 : Session FIX.4.4:OrderGenerator->OrderAccumulator already disconnected: Resetting...
+20240328-06:28:53.000 : Session reset: New session
+20240328-06:28:53.004 : Created session
+20240328-06:28:53.125 : Connecting to 127.0.0.1 on port 9876
+20240328-06:28:53.677 : Connection succeeded
+20240328-06:28:53.681 : Initiated logon request
+20240328-06:29:03.743 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240328-06:29:03.747 : Session reset: ResetOnDisconnect
+20240328-06:29:08.246 : Connecting to 127.0.0.1 on port 9876
+20240328-06:29:10.286 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:29:13.298 : Connecting to 127.0.0.1 on port 9876
+20240328-06:29:15.340 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:29:18.340 : Connecting to 127.0.0.1 on port 9876
+20240328-06:30:10.252 : Created session
+20240328-06:30:10.313 : Connecting to 127.0.0.1 on port 9876
+20240328-06:30:10.843 : Connection succeeded
+20240328-06:30:10.848 : Initiated logon request
+20240328-06:30:20.927 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240328-06:30:20.932 : Session reset: ResetOnDisconnect
+20240328-06:30:25.412 : Connecting to 127.0.0.1 on port 9876
+20240328-06:30:27.447 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:30:30.453 : Connecting to 127.0.0.1 on port 9876
+20240328-06:30:32.503 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:30:35.505 : Connecting to 127.0.0.1 on port 9876
+20240328-06:30:37.547 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:30:40.552 : Connecting to 127.0.0.1 on port 9876
+20240328-06:30:42.572 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:30:45.598 : Connecting to 127.0.0.1 on port 9876
+20240328-06:30:47.643 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:32:14.027 : Created session
+20240328-06:32:14.079 : Connecting to 127.0.0.1 on port 9876
+20240328-06:32:14.606 : Connection succeeded
+20240328-06:32:14.610 : Initiated logon request
+20240328-06:32:25.403 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240328-06:32:25.409 : Session reset: ResetOnDisconnect
+20240328-06:32:27.612 : Connecting to 127.0.0.1 on port 9876
+20240328-06:32:27.620 : Connection succeeded
+20240328-06:32:29.982 : Initiated logon request
+20240328-06:32:34.166 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10054): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20240328-06:32:34.169 : Session reset: ResetOnDisconnect
+20240328-06:32:39.188 : Connecting to 127.0.0.1 on port 9876
+20240328-06:32:41.241 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:32:44.241 : Connecting to 127.0.0.1 on port 9876
+20240328-06:44:12.898 : Created session
+20240328-06:44:12.994 : Connecting to 127.0.0.1 on port 9876
+20240328-06:44:14.536 : Connection succeeded
+20240328-06:44:14.539 : Initiated logon request
+20240328-06:44:25.055 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240328-06:44:25.062 : Session reset: ResetOnDisconnect
+20240328-06:44:30.108 : Connecting to 127.0.0.1 on port 9876
+20240328-06:44:32.162 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:44:35.161 : Connecting to 127.0.0.1 on port 9876
+20240328-06:44:37.209 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:44:40.200 : Connecting to 127.0.0.1 on port 9876
+20240328-06:44:42.243 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:44:45.250 : Connecting to 127.0.0.1 on port 9876
+20240328-06:44:47.299 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:44:50.287 : Connecting to 127.0.0.1 on port 9876
+20240328-06:44:52.342 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:44:55.331 : Connecting to 127.0.0.1 on port 9876
+20240328-06:44:57.384 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:45:00.380 : Connecting to 127.0.0.1 on port 9876
+20240328-06:45:02.433 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:45:05.431 : Connecting to 127.0.0.1 on port 9876
+20240328-06:45:07.467 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:45:10.478 : Connecting to 127.0.0.1 on port 9876
+20240328-06:45:12.515 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:45:15.522 : Connecting to 127.0.0.1 on port 9876
+20240328-06:45:17.564 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:45:20.567 : Connecting to 127.0.0.1 on port 9876
+20240328-06:45:22.613 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:45:25.609 : Connecting to 127.0.0.1 on port 9876
+20240328-06:45:27.626 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:45:30.651 : Connecting to 127.0.0.1 on port 9876
+20240328-06:45:32.698 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:45:35.690 : Connecting to 127.0.0.1 on port 9876
+20240328-06:45:37.718 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:45:40.745 : Connecting to 127.0.0.1 on port 9876
+20240328-06:45:42.795 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:45:45.789 : Connecting to 127.0.0.1 on port 9876
+20240328-06:45:47.834 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:45:50.840 : Connecting to 127.0.0.1 on port 9876
+20240328-06:45:52.876 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:45:55.884 : Connecting to 127.0.0.1 on port 9876
+20240328-06:45:57.935 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:46:00.932 : Connecting to 127.0.0.1 on port 9876
+20240328-06:46:02.969 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:46:05.987 : Connecting to 127.0.0.1 on port 9876
+20240328-06:46:08.038 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:46:11.030 : Connecting to 127.0.0.1 on port 9876
+20240328-06:46:13.069 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:46:16.100 : Connecting to 127.0.0.1 on port 9876
+20240328-06:46:18.127 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:46:21.152 : Connecting to 127.0.0.1 on port 9876
+20240328-06:46:23.189 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:46:26.192 : Connecting to 127.0.0.1 on port 9876
+20240328-06:46:28.247 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:46:31.239 : Connecting to 127.0.0.1 on port 9876
+20240328-06:46:33.288 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:46:36.287 : Connecting to 127.0.0.1 on port 9876
+20240328-06:46:38.322 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:46:41.334 : Connecting to 127.0.0.1 on port 9876
+20240328-06:46:43.373 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:46:46.395 : Connecting to 127.0.0.1 on port 9876
+20240328-06:46:48.445 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:46:51.439 : Connecting to 127.0.0.1 on port 9876
+20240328-06:46:53.489 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:46:56.481 : Connecting to 127.0.0.1 on port 9876
+20240328-06:46:58.521 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:47:01.543 : Connecting to 127.0.0.1 on port 9876
+20240328-06:47:03.594 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:47:06.592 : Connecting to 127.0.0.1 on port 9876
+20240328-06:47:08.639 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:47:11.647 : Connecting to 127.0.0.1 on port 9876
+20240328-06:47:13.678 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:47:16.679 : Connecting to 127.0.0.1 on port 9876
+20240328-06:47:18.722 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:47:21.736 : Connecting to 127.0.0.1 on port 9876
+20240328-06:47:23.771 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:47:26.780 : Connecting to 127.0.0.1 on port 9876
+20240328-06:47:28.828 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:47:31.828 : Connecting to 127.0.0.1 on port 9876
+20240328-06:47:33.861 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:47:36.859 : Connecting to 127.0.0.1 on port 9876
+20240328-06:47:38.910 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:47:41.912 : Connecting to 127.0.0.1 on port 9876
+20240328-06:47:43.960 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:47:46.951 : Connecting to 127.0.0.1 on port 9876
+20240328-06:47:48.989 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:47:52.003 : Connecting to 127.0.0.1 on port 9876
+20240328-06:47:54.034 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:47:57.050 : Connecting to 127.0.0.1 on port 9876
+20240328-06:47:59.095 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:48:02.090 : Connecting to 127.0.0.1 on port 9876
+20240328-06:48:04.124 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:48:07.136 : Connecting to 127.0.0.1 on port 9876
+20240328-06:48:09.171 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:48:12.169 : Connecting to 127.0.0.1 on port 9876
+20240328-06:48:14.203 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:48:17.205 : Connecting to 127.0.0.1 on port 9876
+20240328-06:48:19.254 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:48:22.251 : Connecting to 127.0.0.1 on port 9876
+20240328-06:48:24.295 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:48:27.300 : Connecting to 127.0.0.1 on port 9876
+20240328-06:48:29.351 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:48:32.345 : Connecting to 127.0.0.1 on port 9876
+20240328-06:48:34.383 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:48:37.395 : Connecting to 127.0.0.1 on port 9876
+20240328-06:48:39.432 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:48:42.424 : Connecting to 127.0.0.1 on port 9876
+20240328-06:48:44.449 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:48:47.480 : Connecting to 127.0.0.1 on port 9876
+20240328-06:48:49.526 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:48:52.519 : Connecting to 127.0.0.1 on port 9876
+20240328-06:48:54.559 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:48:57.563 : Connecting to 127.0.0.1 on port 9876
+20240328-06:48:59.612 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:49:02.603 : Connecting to 127.0.0.1 on port 9876
+20240328-06:49:04.648 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:49:07.645 : Connecting to 127.0.0.1 on port 9876
+20240328-06:49:09.681 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:49:12.703 : Connecting to 127.0.0.1 on port 9876
+20240328-06:49:14.750 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:49:17.727 : Connecting to 127.0.0.1 on port 9876
+20240328-06:49:19.766 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:49:22.764 : Connecting to 127.0.0.1 on port 9876
+20240328-06:49:26.891 : Created session
+20240328-06:49:26.954 : Connecting to 127.0.0.1 on port 9876
+20240328-06:49:28.034 : Connection succeeded
+20240328-06:49:28.037 : Initiated logon request
+20240328-06:49:38.146 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240328-06:49:38.150 : Session reset: ResetOnDisconnect
+20240328-06:49:42.120 : Connecting to 127.0.0.1 on port 9876
+20240328-06:49:44.168 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:55:33.783 : Created session
+20240328-06:55:33.908 : Connecting to 127.0.0.1 on port 9876
+20240328-06:55:34.953 : Connection succeeded
+20240328-06:55:34.957 : Initiated logon request
+20240328-06:55:45.039 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240328-06:55:45.043 : Session reset: ResetOnDisconnect
+20240328-06:55:49.023 : Connecting to 127.0.0.1 on port 9876
+20240328-06:55:51.050 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:55:54.069 : Connecting to 127.0.0.1 on port 9876
+20240328-06:55:56.103 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:55:59.109 : Connecting to 127.0.0.1 on port 9876
+20240328-06:56:01.136 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:56:04.166 : Connecting to 127.0.0.1 on port 9876
+20240328-06:56:06.209 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:56:09.211 : Connecting to 127.0.0.1 on port 9876
+20240328-06:56:11.257 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:56:14.246 : Connecting to 127.0.0.1 on port 9876
+20240328-06:56:16.294 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:56:19.290 : Connecting to 127.0.0.1 on port 9876
+20240328-06:56:21.333 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:56:24.331 : Connecting to 127.0.0.1 on port 9876
+20240328-06:56:26.369 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:56:29.373 : Connecting to 127.0.0.1 on port 9876
+20240328-06:56:31.423 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:56:34.415 : Connecting to 127.0.0.1 on port 9876
+20240328-06:56:36.468 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:56:39.462 : Connecting to 127.0.0.1 on port 9876
+20240328-06:56:41.508 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:56:44.503 : Connecting to 127.0.0.1 on port 9876
+20240328-06:56:46.545 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:56:49.560 : Connecting to 127.0.0.1 on port 9876
+20240328-06:56:51.610 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:56:54.609 : Connecting to 127.0.0.1 on port 9876
+20240328-06:56:56.652 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:56:59.646 : Connecting to 127.0.0.1 on port 9876
+20240328-06:57:01.691 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:57:04.688 : Connecting to 127.0.0.1 on port 9876
+20240328-06:57:06.715 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:57:09.737 : Connecting to 127.0.0.1 on port 9876
+20240328-06:57:11.778 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:57:14.767 : Connecting to 127.0.0.1 on port 9876
+20240328-06:57:16.810 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-06:57:19.812 : Connecting to 127.0.0.1 on port 9876
+20240328-06:57:21.855 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-07:10:29.561 : Created session
+20240328-07:10:29.621 : Connecting to 127.0.0.1 on port 9876
+20240328-07:10:30.142 : Connection succeeded
+20240328-07:10:30.147 : Initiated logon request
+20240328-07:10:40.252 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240328-07:10:40.257 : Session reset: ResetOnDisconnect
+20240328-07:10:44.771 : Connecting to 127.0.0.1 on port 9876
+20240328-07:10:44.778 : Connection succeeded
+20240328-07:10:44.778 : Initiated logon request
+20240328-07:10:54.872 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240328-07:10:54.875 : Session reset: ResetOnDisconnect
+20240328-07:10:59.893 : Connecting to 127.0.0.1 on port 9876
+20240328-07:10:59.899 : Connection succeeded
+20240328-07:10:59.900 : Initiated logon request
+20240328-07:11:03.350 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10054): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20240328-07:11:03.353 : Session reset: ResetOnDisconnect
+20240328-07:11:04.938 : Connecting to 127.0.0.1 on port 9876
+20240328-07:13:42.511 : Created session
+20240328-07:13:42.585 : Connecting to 127.0.0.1 on port 9876
+20240328-07:13:42.610 : Connection succeeded
+20240328-07:13:42.615 : Initiated logon request
+20240328-07:13:52.693 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240328-07:13:52.699 : Session reset: ResetOnDisconnect
+20240328-07:13:57.701 : Connecting to 127.0.0.1 on port 9876
+20240328-07:13:59.742 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-07:14:02.762 : Connecting to 127.0.0.1 on port 9876
+20240328-07:14:04.797 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-07:32:15.508 : Created session
+20240328-07:32:15.573 : Connecting to 127.0.0.1 on port 9876
+20240328-07:32:16.621 : Connection succeeded
+20240328-07:32:16.624 : Initiated logon request
+20240328-07:32:28.590 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240328-07:32:28.594 : Session reset: ResetOnDisconnect
+20240328-07:32:58.852 : Connecting to 127.0.0.1 on port 9876
+20240328-07:32:58.858 : Connection succeeded
+20240328-07:32:58.859 : Initiated logon request
+20240328-07:33:18.643 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240328-07:33:18.651 : Session reset: ResetOnDisconnect
+20240328-07:33:34.211 : Connecting to 127.0.0.1 on port 9876
+20240328-07:33:34.216 : Connection succeeded
+20240328-07:33:34.216 : Initiated logon request
+20240328-07:33:44.617 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240328-07:33:44.626 : Session reset: ResetOnDisconnect
+20240328-07:33:55.311 : Connecting to 127.0.0.1 on port 9876
+20240328-07:33:55.318 : Connection succeeded
+20240328-07:33:55.319 : Initiated logon request
+20240328-07:33:55.350 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10054): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20240328-07:33:55.352 : Session reset: ResetOnDisconnect
+20240328-07:34:00.358 : Connecting to 127.0.0.1 on port 9876
+20240328-07:34:02.401 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-07:55:18.318 : Created session
+20240328-07:55:18.377 : Connecting to 127.0.0.1 on port 9876
+20240328-07:55:18.910 : Connection succeeded
+20240328-07:55:18.914 : Initiated logon request
+20240328-07:55:28.987 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240328-07:55:28.995 : Session reset: ResetOnDisconnect
+20240328-07:55:34.031 : Connecting to 127.0.0.1 on port 9876
+20240328-07:55:36.079 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-07:55:39.076 : Connecting to 127.0.0.1 on port 9876
+20240328-07:55:41.114 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-07:56:03.412 : Created session
+20240328-07:56:03.553 : Connecting to 127.0.0.1 on port 9876
+20240328-07:56:03.577 : Connection succeeded
+20240328-07:56:03.581 : Initiated logon request
+20240328-07:56:13.665 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240328-07:56:13.671 : Session reset: ResetOnDisconnect
+20240328-07:56:18.694 : Connecting to 127.0.0.1 on port 9876
+20240328-07:56:20.729 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-07:56:23.729 : Connecting to 127.0.0.1 on port 9876
+20240328-07:56:25.760 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-07:56:28.762 : Connecting to 127.0.0.1 on port 9876
+20240328-07:57:01.838 : Created session
+20240328-07:57:01.910 : Connecting to 127.0.0.1 on port 9876
+20240328-07:57:02.449 : Connection succeeded
+20240328-07:57:02.453 : Initiated logon request
+20240328-07:57:12.560 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240328-07:57:12.564 : Session reset: ResetOnDisconnect
+20240328-07:57:17.045 : Connecting to 127.0.0.1 on port 9876
+20240328-07:57:19.104 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-07:57:22.096 : Connecting to 127.0.0.1 on port 9876
+20240328-07:57:24.143 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-07:57:27.132 : Connecting to 127.0.0.1 on port 9876
+20240328-07:57:29.180 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-07:57:32.163 : Connecting to 127.0.0.1 on port 9876
+20240328-07:57:34.200 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-07:58:13.536 : Created session
+20240328-07:58:13.603 : Connecting to 127.0.0.1 on port 9876
+20240328-07:58:14.143 : Connection succeeded
+20240328-07:58:14.146 : Initiated logon request
+20240328-07:58:24.231 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240328-07:58:24.235 : Session reset: ResetOnDisconnect
+20240328-08:36:16.355 : Created session
+20240328-08:36:16.419 : Connecting to 127.0.0.1 on port 9876
+20240328-08:36:16.441 : Connection succeeded
+20240328-08:36:16.445 : Initiated logon request
+20240328-08:36:26.552 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240328-08:36:26.557 : Session reset: ResetOnDisconnect
+20240328-08:37:32.959 : Created session
+20240328-08:37:33.041 : Connecting to 127.0.0.1 on port 9876
+20240328-08:37:33.064 : Connection succeeded
+20240328-08:37:33.068 : Initiated logon request
+20240328-08:37:43.177 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240328-08:37:43.182 : Session reset: ResetOnDisconnect
+20240328-08:37:48.181 : Connecting to 127.0.0.1 on port 9876
+20240328-08:37:50.230 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-08:37:53.222 : Connecting to 127.0.0.1 on port 9876
+20240328-08:38:53.219 : Created session
+20240328-08:38:53.271 : Connecting to 127.0.0.1 on port 9876
+20240328-08:38:53.793 : Connection succeeded
+20240328-08:38:53.798 : Initiated logon request
+20240328-08:39:03.875 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240328-08:39:03.879 : Session reset: ResetOnDisconnect
+20240328-08:39:08.432 : Connecting to 127.0.0.1 on port 9876
+20240328-08:48:25.210 : Created session
+20240328-08:48:25.298 : Connecting to 127.0.0.1 on port 9876
+20240328-08:48:26.864 : Connection succeeded
+20240328-08:48:26.867 : Initiated logon request
+20240328-08:48:40.114 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240328-08:48:40.119 : Session reset: ResetOnDisconnect
+20240328-08:48:41.652 : Connecting to 127.0.0.1 on port 9876
+20240328-08:48:41.659 : Connection succeeded
+20240328-08:48:41.659 : Initiated logon request
+20240328-09:05:20.855 : Created session
+20240328-09:05:20.936 : Connecting to 127.0.0.1 on port 9876
+20240328-09:05:22.495 : Connection succeeded
+20240328-09:05:22.499 : Initiated logon request
+20240328-09:05:34.324 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240328-09:05:34.330 : Session reset: ResetOnDisconnect
+20240328-09:05:36.674 : Connecting to 127.0.0.1 on port 9876
+20240328-09:05:36.680 : Connection succeeded
+20240328-09:05:36.680 : Initiated logon request
+20240328-16:58:31.681 : Created session
+20240328-16:58:31.736 : Connecting to 127.0.0.1 on port 9876
+20240328-16:58:32.264 : Connection succeeded
+20240328-16:58:32.267 : Initiated logon request
+20240328-16:58:42.365 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240328-16:58:42.370 : Session reset: ResetOnDisconnect
+20240328-17:02:32.929 : Created session
+20240328-17:02:32.998 : Connecting to 127.0.0.1 on port 9876
+20240328-17:02:34.532 : Connection succeeded
+20240328-17:02:34.535 : Initiated logon request
+20240328-17:02:44.625 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240328-17:02:44.629 : Session reset: ResetOnDisconnect
+20240328-17:02:48.115 : Connecting to 127.0.0.1 on port 9876
+20240328-17:02:50.156 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-17:02:53.144 : Connecting to 127.0.0.1 on port 9876
+20240328-17:02:55.179 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-17:02:58.168 : Connecting to 127.0.0.1 on port 9876
+20240328-17:03:31.428 : Created session
+20240328-17:03:31.474 : Connecting to 127.0.0.1 on port 9876
+20240328-17:03:32.010 : Connection succeeded
+20240328-17:03:32.013 : Initiated logon request
+20240328-17:03:42.076 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240328-17:03:42.080 : Session reset: ResetOnDisconnect
+20240328-17:06:50.662 : Created session
+20240328-17:06:50.717 : Connecting to 127.0.0.1 on port 9876
+20240328-17:06:51.243 : Connection succeeded
+20240328-17:06:51.247 : Initiated logon request
+20240328-17:06:59.772 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10054): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20240328-17:06:59.776 : Session reset: ResetOnDisconnect
+20240328-17:07:00.800 : Connecting to 127.0.0.1 on port 9876
+20240328-17:07:53.939 : Created session
+20240328-17:07:53.985 : Connecting to 127.0.0.1 on port 9876
+20240328-17:07:54.003 : Connection succeeded
+20240328-17:07:54.017 : Initiated logon request
+20240328-17:08:36.070 : Created session
+20240328-17:08:36.130 : Connecting to 127.0.0.1 on port 9876
+20240328-17:08:36.152 : Connection succeeded
+20240328-17:08:36.156 : Initiated logon request
+20240328-17:08:46.225 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240328-17:08:46.230 : Session reset: ResetOnDisconnect
+20240328-17:08:51.212 : Created session
+20240328-17:08:51.256 : Connecting to 127.0.0.1 on port 9876
+20240328-17:08:51.268 : Connection succeeded
+20240328-17:08:51.275 : Initiated logon request
+20240328-17:09:01.340 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240328-17:09:01.346 : Session reset: ResetOnDisconnect
+20240328-17:09:06.369 : Connecting to 127.0.0.1 on port 9876
+20240328-17:09:08.429 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-17:09:11.425 : Connecting to 127.0.0.1 on port 9876
+20240328-17:09:13.447 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-17:09:16.469 : Connecting to 127.0.0.1 on port 9876
+20240328-17:09:18.504 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-17:09:21.493 : Connecting to 127.0.0.1 on port 9876
+20240328-17:09:23.512 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-17:09:26.552 : Connecting to 127.0.0.1 on port 9876
+20240328-17:09:28.580 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-17:09:31.575 : Connecting to 127.0.0.1 on port 9876
+20240328-17:09:33.607 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-17:09:36.621 : Connecting to 127.0.0.1 on port 9876
+20240328-17:09:38.655 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-17:09:41.667 : Connecting to 127.0.0.1 on port 9876
+20240328-17:09:43.711 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-17:09:46.719 : Connecting to 127.0.0.1 on port 9876
+20240328-17:09:49.609 : Created session
+20240328-17:09:49.653 : Connecting to 127.0.0.1 on port 9876
+20240328-17:09:50.188 : Connection succeeded
+20240328-17:09:50.192 : Initiated logon request
+20240328-17:13:13.049 : Created session
+20240328-17:13:13.085 : Connecting to 127.0.0.1 on port 9876
+20240328-17:13:13.099 : Connection succeeded
+20240328-17:13:13.103 : Initiated logon request
+20240328-17:13:23.396 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240328-17:13:23.400 : Session reset: ResetOnDisconnect
+20240328-17:13:28.436 : Connecting to 127.0.0.1 on port 9876
+20240328-17:13:30.471 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-17:13:36.035 : Created session
+20240328-17:13:36.078 : Connecting to 127.0.0.1 on port 9876
+20240328-17:13:36.091 : Connection succeeded
+20240328-17:13:36.105 : Initiated logon request
+20240328-17:13:46.170 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240328-17:13:46.174 : Session reset: ResetOnDisconnect
+20240328-17:13:56.725 : Created session
+20240328-17:13:56.777 : Connecting to 127.0.0.1 on port 9876
+20240328-17:13:56.797 : Connection succeeded
+20240328-17:13:56.803 : Initiated logon request
+20240328-17:14:27.980 : Created session
+20240328-17:14:28.020 : Connecting to 127.0.0.1 on port 9876
+20240328-17:14:28.546 : Connection succeeded
+20240328-17:14:28.550 : Initiated logon request
+20240328-17:14:47.004 : Created session
+20240328-17:14:47.127 : Connecting to 127.0.0.1 on port 9876
+20240328-17:14:47.142 : Connection succeeded
+20240328-17:14:47.146 : Initiated logon request
+20240328-17:18:02.057 : Created session
+20240328-17:18:02.101 : Connecting to 127.0.0.1 on port 9876
+20240328-17:18:02.117 : Connection succeeded
+20240328-17:18:02.120 : Initiated logon request
+20240328-17:18:52.439 : Created session
+20240328-17:18:52.492 : Connecting to 127.0.0.1 on port 9876
+20240328-17:18:52.528 : Connection succeeded
+20240328-17:18:52.534 : Initiated logon request
+20240328-17:19:21.077 : Created session
+20240328-17:19:21.133 : Connecting to 127.0.0.1 on port 9876
+20240328-17:19:21.665 : Connection succeeded
+20240328-17:19:21.669 : Initiated logon request
+20240328-17:19:31.757 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240328-17:19:31.760 : Session reset: ResetOnDisconnect
+20240328-17:20:15.542 : Created session
+20240328-17:20:15.622 : Connecting to 127.0.0.1 on port 9876
+20240328-17:20:16.156 : Connection succeeded
+20240328-17:20:16.161 : Initiated logon request
+20240328-17:20:35.894 : Created session
+20240328-17:20:35.939 : Connecting to 127.0.0.1 on port 9876
+20240328-17:20:36.464 : Connection succeeded
+20240328-17:20:36.469 : Initiated logon request
+20240328-17:20:54.435 : Created session
+20240328-17:20:54.489 : Connecting to 127.0.0.1 on port 9876
+20240328-17:20:54.507 : Connection succeeded
+20240328-17:20:54.514 : Initiated logon request
+20240328-17:21:28.738 : Created session
+20240328-17:21:28.785 : Connecting to 127.0.0.1 on port 9876
+20240328-17:21:29.309 : Connection succeeded
+20240328-17:21:29.314 : Initiated logon request
+20240328-17:22:06.571 : Created session
+20240328-17:22:06.626 : Connecting to 127.0.0.1 on port 9876
+20240328-17:22:06.652 : Connection succeeded
+20240328-17:22:06.656 : Initiated logon request
+20240328-17:22:16.741 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: Timed out waiting for logon response
+20240328-17:22:16.745 : Session reset: ResetOnDisconnect
+20240328-17:22:21.751 : Connecting to 127.0.0.1 on port 9876
+20240328-17:22:23.774 : Connection failed: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente. 127.0.0.1:9876
+20240328-17:31:27.183 : Created session
+20240328-17:31:27.334 : Connecting to 127.0.0.1 on port 9876
+20240328-17:31:27.354 : Connection succeeded
+20240328-17:31:27.358 : Initiated logon request
+20240328-17:31:29.255 : Session FIX.4.4:OrderGenerator->OrderAccumulator disconnecting: System.Net.Sockets.SocketException (10054): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20240328-17:31:29.260 : Session reset: ResetOnDisconnect

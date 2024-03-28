@@ -1,0 +1,143 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "QuickFix.Net.NETCore/1.8.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/QuickFix.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/QuickFix.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "QuickFix.Net.NETCore.FIX44/1.8.1": {
+        "type": "package",
+        "dependencies": {
+          "QuickFix.Net.NETCore": "1.8.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/QuickFix.FIX44.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/QuickFix.FIX44.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuickFix.Net.NETCore/1.8.1": {
+      "sha512": "O5zFjO3gfnrvvbWmgH6oJYNQZYz5MlgOXnnFVO6Wt6gXa3c5CNV/EHKuYnBHyzD0TbVcR1kmr/raBhz0oFgCeg==",
+      "type": "package",
+      "path": "quickfix.net.netcore/1.8.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/QuickFix.dll",
+        "lib/netstandard2.0/QuickFix.xml",
+        "quickfix.net.netcore.1.8.1.nupkg.sha512",
+        "quickfix.net.netcore.nuspec"
+      ]
+    },
+    "QuickFix.Net.NETCore.FIX44/1.8.1": {
+      "sha512": "ee9qnsx/s1zSnWpIGJ4U6zhOxy0LLEPezcS0SPZj2c3IJtezMdi+HSDRYXFIvAqx9VsIxF2++9MbGlr9NeP7Yw==",
+      "type": "package",
+      "path": "quickfix.net.netcore.fix44/1.8.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/QuickFix.FIX44.dll",
+        "lib/netstandard2.0/QuickFix.FIX44.xml",
+        "quickfix.net.netcore.fix44.1.8.1.nupkg.sha512",
+        "quickfix.net.netcore.fix44.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "QuickFix.Net.NETCore >= 1.8.1",
+      "QuickFix.Net.NETCore.FIX44 >= 1.8.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\imkar\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\imkar\\source\\atgbckp\\FixAtg\\FixAtg.csproj",
+      "projectName": "FixAtg",
+      "projectPath": "C:\\Users\\imkar\\source\\atgbckp\\FixAtg\\FixAtg.csproj",
+      "packagesPath": "C:\\Users\\imkar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\imkar\\source\\atgbckp\\FixAtg\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\imkar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "QuickFix.Net.NETCore": {
+            "target": "Package",
+            "version": "[1.8.1, )"
+          },
+          "QuickFix.Net.NETCore.FIX44": {
+            "target": "Package",
+            "version": "[1.8.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OrderAccumulator/1.0.0": {
+        "dependencies": {
+          "QuickFix.Net.NETCore": "1.8.1",
+          "QuickFix.Net.NETCore.FIX44": "1.8.1"
+        },
+        "runtime": {
+          "OrderAccumulator.dll": {}
+        }
+      },
+      "QuickFix.Net.NETCore/1.8.1": {
+        "runtime": {
+          "lib/netstandard2.0/QuickFix.dll": {
+            "assemblyVersion": "1.8.1.0",
+            "fileVersion": "1.8.1.0"
+          }
+        }
+      },
+      "QuickFix.Net.NETCore.FIX44/1.8.1": {
+        "dependencies": {
+          "QuickFix.Net.NETCore": "1.8.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/QuickFix.FIX44.dll": {
+            "assemblyVersion": "1.8.1.0",
+            "fileVersion": "1.8.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrderAccumulator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuickFix.Net.NETCore/1.8.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-O5zFjO3gfnrvvbWmgH6oJYNQZYz5MlgOXnnFVO6Wt6gXa3c5CNV/EHKuYnBHyzD0TbVcR1kmr/raBhz0oFgCeg==",
+      "path": "quickfix.net.netcore/1.8.1",
+      "hashPath": "quickfix.net.netcore.1.8.1.nupkg.sha512"
+    },
+    "QuickFix.Net.NETCore.FIX44/1.8.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ee9qnsx/s1zSnWpIGJ4U6zhOxy0LLEPezcS0SPZj2c3IJtezMdi+HSDRYXFIvAqx9VsIxF2++9MbGlr9NeP7Yw==",
+      "path": "quickfix.net.netcore.fix44/1.8.1",
+      "hashPath": "quickfix.net.netcore.fix44.1.8.1.nupkg.sha512"
+    }
+  }
+}

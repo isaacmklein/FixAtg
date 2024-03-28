@@ -1,0 +1,83 @@
+20240326-05:02:25.338 : Created session
+20240326-05:05:59.486 : Created session
+20240326-05:09:09.411 : Created session
+20240326-05:19:32.165 : Created session
+20240326-05:23:52.221 : Created session
+20240326-05:25:18.952 : Created session
+20240326-05:37:18.993 : Created session
+20240327-06:21:04.827 : Session FIX.4.4:OrderAccumulator->OrderGenerator already disconnected: Resetting...
+20240327-06:21:04.845 : Session reset: New session
+20240327-06:21:04.846 : Created session
+20240327-06:21:05.166 : FIX.4.4:OrderAccumulator->OrderGenerator Socket Reader 58366981 accepting session FIX.4.4:OrderAccumulator->OrderGenerator from 127.0.0.1:57118
+20240327-06:21:05.167 : FIX.4.4:OrderAccumulator->OrderGenerator Acceptor heartbeat set to 0 seconds
+20240327-06:21:05.210 : Received logon
+20240327-06:21:05.218 : Responding to logon request
+20240327-06:21:05.219 : MsgSeqNum too high, expecting 1 but received 42
+20240327-06:21:05.220 : Sent ResendRequest FROM: 1 TO: 0
+20240327-06:21:05.255 : ResendRequest for messages FROM: 1 TO: 0 has been satisfied.
+20240327-06:21:05.561 : MsgSeqNum too high, expecting 16 but received 43
+20240327-06:21:05.569 : Sent ResendRequest FROM: 16 TO: 0
+20240327-06:21:05.570 : ResendRequest for messages FROM: 16 TO: 0 has been satisfied.
+20240327-06:21:06.034 : Processing queued message: 42
+20240327-06:21:06.035 : Processing queued message: 43
+20240327-06:35:49.347 : Created session
+20240327-07:09:12.606 : Created session
+20240327-07:12:09.819 : Created session
+20240327-07:14:34.984 : Created session
+20240327-07:16:35.281 : Created session
+20240327-07:17:11.590 : Created session
+20240327-07:24:19.584 : Created session
+20240327-08:08:32.143 : Created session
+20240327-08:09:16.337 : Created session
+20240327-08:11:46.095 : Created session
+20240327-08:32:10.149 : Created session
+20240327-08:32:47.649 : Created session
+20240327-08:46:12.095 : Created session
+20240327-09:08:09.011 : Created session
+20240327-09:09:27.349 : Created session
+20240327-12:01:13.763 : Created session
+20240327-20:31:51.228 : Created session
+20240327-20:35:02.793 : Created session
+20240327-20:43:29.195 : Created session
+20240328-06:28:53.260 : Session FIX.4.4:OrderAccumulator->OrderGenerator already disconnected: Resetting...
+20240328-06:28:53.275 : Session reset: New session
+20240328-06:28:53.276 : Created session
+20240328-06:30:10.358 : Created session
+20240328-06:32:14.320 : Created session
+20240328-06:44:14.234 : Created session
+20240328-06:49:27.717 : Created session
+20240328-06:55:34.727 : Created session
+20240328-07:10:30.020 : Created session
+20240328-07:13:42.099 : Created session
+20240328-07:32:16.120 : Created session
+20240328-07:55:18.592 : Created session
+20240328-07:56:02.425 : Created session
+20240328-07:57:01.938 : Created session
+20240328-07:58:13.641 : Created session
+20240328-08:36:16.210 : Created session
+20240328-08:37:33.037 : Created session
+20240328-08:38:53.653 : Created session
+20240328-08:48:26.613 : Created session
+20240328-09:05:21.979 : Created session
+20240328-16:58:31.775 : Created session
+20240328-17:02:34.011 : Created session
+20240328-17:03:31.883 : Created session
+20240328-17:06:50.728 : Created session
+20240328-17:07:53.543 : Created session
+20240328-17:08:36.089 : Created session
+20240328-17:08:50.565 : Created session
+20240328-17:09:49.674 : Created session
+20240328-17:13:12.985 : Created session
+20240328-17:13:35.956 : Created session
+20240328-17:13:56.608 : Created session
+20240328-17:14:28.344 : Created session
+20240328-17:14:46.099 : Created session
+20240328-17:18:01.315 : Created session
+20240328-17:18:52.131 : Created session
+20240328-17:19:21.481 : Created session
+20240328-17:20:16.007 : Created session
+20240328-17:20:36.115 : Created session
+20240328-17:20:54.434 : Created session
+20240328-17:21:28.805 : Created session
+20240328-17:22:06.456 : Created session
+20240328-17:31:27.131 : Created session
